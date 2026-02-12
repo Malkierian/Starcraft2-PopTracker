@@ -1,0 +1,30 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Salvation (Zerg)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Salvation (Zerg)"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Salvation (Zerg)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Salvation (Zerg)"
+                    ]
+                }
+            }
+        ]
+    }
+}

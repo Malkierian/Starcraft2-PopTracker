@@ -1,0 +1,17 @@
+{
+    "name": "Starcraft 2 Archipelago",
+    "game_name": "Starcraft 2",
+    "package_version": "1.0.0",
+    "package_uid": "starcraft2_poptracker",
+    "author": "Malkierian",
+    "variants": {
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0",
+    "versions_url": "https://raw.githubusercontent.com/Malkierian/Starcraft2-Poptracker/main/versions.json"
+}
