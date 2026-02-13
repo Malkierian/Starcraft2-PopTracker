@@ -13,6 +13,92 @@
                 "item_height": 64,
                 "item_width": 64,
                 "rows": [
+                    ["additionalstartingminerals"], ["additionalstartingvespene"], ["additionalstartingsupply"], ["additionalmaximumsupply"],
+                    ["decreasedmaximumsupply"], ["increasedbuildingconstructionspeed"], ["increasedshieldregeneration"], ["increasedupgraderesearchspeed"], ["reducedupgraderesearchcost"]
+                ]
+            }
+        ]
+    },
+    "item_grid_nova": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
+                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
+                    ]
+                ]
+            }
+        ]
+    },
+    "item_grid_terran": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
+                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
+                    ]
+                ]
+            }
+        ]
+    },
+    "item_grid_kerrigan": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
+                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
+                    ]
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
                     [
                         "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
                         "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"

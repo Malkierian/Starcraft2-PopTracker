@@ -9,30 +9,83 @@
                 {
                     "type": "dock",
                     "dock": "left",
-                    "v_alignment": "stretch",
+                    "h_alignment": "left",
                     "content": [
-                        {
-                            "type": "group",
-                            "header": "Filler Items",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "item_grid_filler"
-                            }
-                        },
                         {
                             "type": "tabbed",
                             "tabs": [
                                 {
-                                    "title": "General Items",
+                                    "title": "Terran Items",
                                     "content": {
-                                        "type": "group",
-                                        "header": "Filler",
+                                        "type": "dock",
                                         "dock": "top",
-                                        "content": {
-                                            "type": "layout",
-                                            "key": "shared_item_grid_horizontal"
-                                        }
+                                        "v_alignment": "stretch",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Filler",
+                                                "dock": "left",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_filler"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Nova",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_nova"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Units",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Zerg Items",
+                                    "content": {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "v_alignment": "stretch",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Filler",
+                                                "dock": "left",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_filler"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Kerrigan",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_kerrigan"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Units",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_zerg"
+                                                }
+                                            }
+                                        ]
                                     }
                                 }
                             ]
