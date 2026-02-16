@@ -78,11 +78,11 @@
                                             },
                                             {
                                                 "type": "group",
-                                                "header": "Units",
-                                                "dock": "top",
+                                                "header": "Ground Units",
+                                                "dock": "left",
                                                 "content": {
                                                     "type": "layout",
-                                                    "key": "item_grid_zerg"
+                                                    "key": "item_grid_zerg_ground"
                                                 }
                                             }
                                         ]

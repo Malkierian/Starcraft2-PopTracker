@@ -798,7 +798,7 @@ ITEM_MAPPING = {
 	[3814] = {{"probewarp-in(protoss)", "toggle"}},
 	[3815] = {{"elderprobes(protoss)", "toggle"}},
 	-- Kerrigan
-	[2509] = {{"kerriganlevels", "consumable", 1}},
+	[2509] = {{"kerriganlevels", "consumable"}},
 	[2508] = {{"kerriganlevels", "consumable", 2}},
 	[2507] = {{"kerriganlevels", "consumable", 3}},
 	[2506] = {{"kerriganlevels", "consumable", 4}},

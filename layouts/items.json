@@ -78,31 +78,36 @@
                 "item_width": 64,
                 "rows": [
                     [
-                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
-                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
+                        "kerriganlevels", "kineticblast(kerriganability)", "leapingstrike(kerriganability)", "crushinggrip(kerriganability)", "psionicshift(kerriganability)", "wildmutation(kerriganability)", "spawnbanelings(kerriganability)",
+                        "mend(kerriganability)", "assimilationaura(kerriganability)", "heroicfortitude(kerriganpassive)", "chainreaction(kerriganpassive)", "infestbroodlings(kerriganpassive)", "fury(kerriganpassive)",
+                        "abilityefficiency(kerriganpassive)", "apocalypse(kerriganability)", "spawnleviathan(kerriganability)", "drop-pods(kerriganability)", "immobilizationwave(kerriganability)", "primalform(kerrigan)"
                     ]
                 ]
             }
         ]
     },
-    "item_grid_zerg": {
+    "item_grid_zerg_ground": {
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
         "content": [
             {
-                "type": "itemgrid",
-                "item_margin": "2, 2",
-                "h_alignment": "left",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
-                "item_height": 64,
-                "item_width": 64,
-                "rows": [
-                    [
-                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
-                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
-                    ]
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 64,
+                        "item_width": 64,
+                        "rows": [
+                                ["zergling"], ["adrenaloverload(zergling)", "zerglingreconstitution(zerg)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "swarmlingstrain(zergling)"], ["raptorstrain(zergling)"]
+                        ]
+                    }
                 ]
             }
         ]
