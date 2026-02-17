@@ -250,7 +250,7 @@
     {
         "name": "resourceefficiency(medivac)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(medivac).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(medivac)"
@@ -1038,7 +1038,7 @@
     {
         "name": "resourceefficiency(reaver)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(reaver).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(reaver)"
@@ -2400,7 +2400,7 @@
     {
         "name": "resourceefficiency(hydralisk)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(hydralisk).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(hydralisk)"
@@ -2708,7 +2708,7 @@
     {
         "name": "deeptunnel(infestedsiegetank)",
         "type": "toggle",
-        "img": "images/items/deeptunnel(infestedsiegetank).png",
+        "img": "images/items/deeptunnel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deeptunnel(infestedsiegetank)"
@@ -2953,7 +2953,7 @@
     {
         "name": "resourceefficiency(herc)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(herc).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(herc)"
@@ -3525,7 +3525,7 @@
     {
         "name": "resourceefficiency(missileturret)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(missileturret).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(missileturret)"
@@ -3701,7 +3701,7 @@
     {
         "name": "organiccarapace(roach)",
         "type": "toggle",
-        "img": "images/items/organiccarapace(roach).png",
+        "img": "images/items/organiccarapace.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "organiccarapace(roach)"
@@ -4377,7 +4377,7 @@
     {
         "name": "resourceefficiency(warhound)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(warhound).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(warhound)"
@@ -4437,7 +4437,7 @@
     {
         "name": "deeptunnel(swarmqueen)",
         "type": "toggle",
-        "img": "images/items/deeptunnel(swarmqueen).png",
+        "img": "images/items/deeptunnel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deeptunnel(swarmqueen)"
@@ -4793,7 +4793,7 @@
     {
         "name": "resourceefficiency(predator)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(predator).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(predator)"
@@ -5097,7 +5097,7 @@
     {
         "name": "resourceefficiency(siegetank)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(siegetank).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(siegetank)"
@@ -5177,7 +5177,7 @@
     {
         "name": "organiccarapace(swarmqueen)",
         "type": "toggle",
-        "img": "images/items/organiccarapace(swarmqueen).png",
+        "img": "images/items/organiccarapace.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "organiccarapace(swarmqueen)"
@@ -5356,7 +5356,7 @@
     {
         "name": "resourceefficiency(goliath)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(goliath).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(goliath)"
@@ -5456,7 +5456,7 @@
     {
         "name": "resourceefficiency(ultralisk)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(ultralisk).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(ultralisk)"
@@ -5684,7 +5684,7 @@
     {
         "name": "resourceefficiency(centurion)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(centurion).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(centurion)"
@@ -5772,7 +5772,7 @@
     {
         "name": "resourceefficiency(diamondback)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(diamondback).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(diamondback)"
@@ -5968,7 +5968,7 @@
     {
         "name": "resourceefficiency(corruptor)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(corruptor).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(corruptor)"
@@ -6176,7 +6176,7 @@
     {
         "name": "deeptunnel(ravager)",
         "type": "toggle",
-        "img": "images/items/deeptunnel(ravager).png",
+        "img": "images/items/deeptunnel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deeptunnel(ravager)"
@@ -6308,7 +6308,7 @@
     {
         "name": "resourceefficiency(widowmine)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(widowmine).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(widowmine)"
@@ -6564,7 +6564,7 @@
     {
         "name": "resourceefficiency(valkyrie)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(valkyrie).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(valkyrie)"
@@ -6944,7 +6944,7 @@
     {
         "name": "resourceefficiency(destroyer)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(destroyer).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(destroyer)"
@@ -7400,7 +7400,7 @@
     {
         "name": "resourceefficiency(medic)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(medic).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(medic)"
@@ -7628,7 +7628,7 @@
     {
         "name": "resourceefficiency(arbiter)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(arbiter).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(arbiter)"
@@ -7868,7 +7868,7 @@
     {
         "name": "resourceefficiency(broodlord)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(broodlord).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(broodlord)"
@@ -8236,7 +8236,7 @@
     {
         "name": "resourceefficiency(sentinel)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(sentinel).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(sentinel)"
@@ -8468,7 +8468,7 @@
     {
         "name": "organiccarapace(ultralisk)",
         "type": "toggle",
-        "img": "images/items/organiccarapace(ultralisk).png",
+        "img": "images/items/organiccarapace.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "organiccarapace(ultralisk)"
@@ -10980,7 +10980,7 @@
     {
         "name": "resourceefficiency(liberator)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(liberator).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(liberator)"
@@ -12268,7 +12268,7 @@
     {
         "name": "resourceefficiency(wraith)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(wraith).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(wraith)"
@@ -12778,7 +12778,7 @@
     {
         "name": "resourceefficiency(swarmhost)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(swarmhost).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(swarmhost)"
@@ -13526,7 +13526,7 @@
     {
         "name": "resourceefficiency(aberration)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(aberration).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(aberration)"
@@ -13534,7 +13534,7 @@
     {
         "name": "resourceefficiency(reaper)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(reaper).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(reaper)"
@@ -13662,7 +13662,7 @@
     {
         "name": "resourceefficiency(devastatorturret)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(devastatorturret).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(devastatorturret)"
@@ -14170,7 +14170,7 @@
     {
         "name": "organiccarapace(swarmhost)",
         "type": "toggle",
-        "img": "images/items/organiccarapace(swarmhost).png",
+        "img": "images/items/organiccarapace.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "organiccarapace(swarmhost)"
@@ -14238,7 +14238,7 @@
     {
         "name": "resourceefficiency(swarmqueen)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(swarmqueen).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(swarmqueen)"
@@ -14450,7 +14450,7 @@
     {
         "name": "resourceefficiency(cyclone)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(cyclone).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(cyclone)"
@@ -14698,7 +14698,7 @@
     {
         "name": "resourceefficiency(scout)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(scout).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(scout)"
@@ -14754,7 +14754,7 @@
     {
         "name": "resourceefficiency(spectre)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(spectre).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(spectre)"
@@ -15039,7 +15039,7 @@
     {
         "name": "resourceefficiency(scourge)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(scourge).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(scourge)"
@@ -15091,7 +15091,7 @@
     {
         "name": "resourceefficiency(ghost)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(ghost).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(ghost)"
@@ -15350,7 +15350,7 @@
     {
         "name": "resourceefficiency(firebat)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(firebat).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(firebat)"
@@ -16666,7 +16666,7 @@
     {
         "name": "resourceefficiency(darktemplar/avenger/bloodhunter)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(darktemplar/avenger/bloodhunter).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(darktemplar/avenger/bloodhunter)"
@@ -17474,7 +17474,7 @@
     {
         "name": "resourceefficiency(nydusworm/echidnaworm)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(nydusworm/echidnaworm).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(nydusworm/echidnaworm)"
@@ -17630,7 +17630,7 @@
     {
         "name": "resourceefficiency(raven)",
         "type": "toggle",
-        "img": "images/items/resourceefficiency(raven).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resourceefficiency(raven)"

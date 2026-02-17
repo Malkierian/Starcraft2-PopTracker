@@ -79,10 +79,19 @@
                                             {
                                                 "type": "group",
                                                 "header": "Ground Units",
-                                                "dock": "left",
+                                                "dock": "top",
                                                 "content": {
                                                     "type": "layout",
                                                     "key": "item_grid_zerg_ground"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Flying Units",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_zerg_flyer"
                                                 }
                                             }
                                         ]
