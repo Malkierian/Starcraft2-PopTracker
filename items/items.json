@@ -3657,7 +3657,7 @@
     {
         "name": "constructregeneration(aberration)",
         "type": "toggle",
-        "img": "images/items/constructregeneration(aberration).png",
+        "img": "images/items/macroscopicrecuperation(zerg).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "constructregeneration(aberration)"
@@ -6292,7 +6292,7 @@
     {
         "name": "constructregeneration(corruptor)",
         "type": "toggle",
-        "img": "images/items/constructregeneration(corruptor).png",
+        "img": "images/items/macroscopicrecuperation(zerg).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "constructregeneration(corruptor)"
@@ -10712,20 +10712,14 @@
             {
                 "name": "progressivebanelinglaunch(aberration) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivebanelinglaunch(aberration).png",
+                "img": "/images/items/spawnbanelings(kerriganability).png",
                 "codes": "progressivebanelinglaunch(aberration), progressivebanelinglaunch(aberration)_stage1"
             },
             {
                 "name": "progressivebanelinglaunch(aberration) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivebanelinglaunch(aberration).png",
+                "img": "/images/items/splitterstrain(baneling).png",
                 "codes": "progressivebanelinglaunch(aberration)_stage2"
-            },
-            {
-                "name": "progressivebanelinglaunch(aberration) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivebanelinglaunch(aberration).png",
-                "codes": "progressivebanelinglaunch(aberration)_stage3"
             }
         ]
     },
@@ -11736,7 +11730,7 @@
     {
         "name": "locustmetabolicboost(swarmhost)",
         "type": "toggle",
-        "img": "images/items/locustmetabolicboost(swarmhost).png",
+        "img": "images/items/glialreconstitution(roach).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "locustmetabolicboost(swarmhost)"

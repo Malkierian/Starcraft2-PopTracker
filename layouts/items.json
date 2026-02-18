@@ -143,7 +143,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["roach"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["roach"], ["adaptiveplating(roach)", "organiccarapace(roach)"], ["corpserstrain(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "vilestrain(roach)"], ["hydriodicbile(roach)"]
                         ]
                     }
                 ]
@@ -162,7 +162,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["hydralisk"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["hydralisk"], ["ancillarycarapace(hydralisk)", "resourceefficiency(hydralisk)"], ["frenzy(hydralisk)"], ["groovedspines(hydralisk)"], ["muscularaugments(hydralisk)"]
                         ]
                     }
                 ]
@@ -181,7 +181,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["aberration"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["aberration"], ["banelingincubation(aberration)", "protectivecover(aberration)"], ["constructregeneration(aberration)", "resourceefficiency(aberration)"], ["monstrousresilience(aberration)"], ["progressivebanelinglaunch(aberration)"]
                         ]
                     }
                 ]
@@ -200,7 +200,8 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["swarmhost"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["swarmhost"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)", "resourceefficiency(swarmhost)"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)"],
+                                ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
                         ]
                     }
                 ]
@@ -219,7 +220,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["infestor"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["infestor"], ["infestedterran(infestor)"], ["microbialshroud(infestor)"]
                         ]
                     }
                 ]
@@ -238,7 +239,8 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["ultralisk"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["ultralisk"], ["noxiousstrain(ultralisk)", "torrasquestrain(ultralisk)", "resourceefficiency(ultralisk)"], ["anabolicsynthesis(ultralisk)", "chitinousplating(ultralisk)"],
+                                ["burrowcharge(ultralisk)", "organiccarapace(ultralisk)"], ["monarchblades(ultralisk)", "tissueassimilation(ultralisk)"]
                         ]
                     }
                 ]
