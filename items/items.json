@@ -110,7 +110,7 @@
     {
         "name": "bio-mechanicalstockpiling(zerg)",
         "type": "toggle",
-        "img": "images/items/bio-mechanicalstockpiling(zerg).png",
+        "img": "images/items/enhancedmitochondria(broodqueen).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bio-mechanicalstockpiling(zerg)"
@@ -748,7 +748,7 @@
     {
         "name": "infestedsiegebreakers",
         "type": "toggle",
-        "img": "images/items/infestedsiegebreakers.png",
+        "img": "images/items/siegebreakers.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "infestedsiegebreakers"
@@ -1720,20 +1720,32 @@
             {
                 "name": "progressivezergflyerattack stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerattack.png",
+                "img": "/images/items/progressivezergflyerattack_stage1.png",
                 "codes": "progressivezergflyerattack, progressivezergflyerattack_stage1"
             },
             {
                 "name": "progressivezergflyerattack stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerattack.png",
+                "img": "/images/items/progressivezergflyerattack_stage2.png",
                 "codes": "progressivezergflyerattack_stage2"
             },
             {
                 "name": "progressivezergflyerattack stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerattack.png",
+                "img": "/images/items/progressivezergflyerattack_stage3.png",
                 "codes": "progressivezergflyerattack_stage3"
+            },
+            {
+                "name": "progressivezergflyerattack stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyerattack_stage4.png",
+                "codes": "progressivezergflyerattack_stage4"
+            },
+            {
+                "name": "progressivezergflyerattack stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyerattack_stage5.png",
+                "codes": "progressivezergflyerattack_stage5"
             }
         ]
     },
@@ -2492,7 +2504,7 @@
     {
         "name": "jormungandrstrain(nydusworm/echidnaworm)",
         "type": "toggle",
-        "img": "images/items/jormungandrstrain(nydusworm/echidnaworm).png",
+        "img": "images/items/jormungandrstrain(nyduswormechidnaworm).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "jormungandrstrain(nydusworm/echidnaworm)"
@@ -2989,7 +3001,7 @@
     {
         "name": "acidsporevents(infestedmissileturret)",
         "type": "toggle",
-        "img": "images/items/acidsporevents(infestedmissileturret).png",
+        "img": "images/items/causticenzymes(sporecrawler).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "acidsporevents(infestedmissileturret)"
@@ -3353,7 +3365,7 @@
     {
         "name": "infestedmarine",
         "type": "toggle",
-        "img": "images/items/infestedmarine.png",
+        "img": "images/items/infestedterran(infestor).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "infestedmarine"
@@ -5061,7 +5073,7 @@
     {
         "name": "rupture(baneling)",
         "type": "toggle",
-        "img": "images/items/rupture(baneling).png",
+        "img": "images/items/banelingincubation(aberration).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rupture(baneling)"
@@ -5580,20 +5592,14 @@
             {
                 "name": "progressiveautomatedmitosis(infestedsiegetank) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressiveautomatedmitosis(infestedsiegetank).png",
+                "img": "/images/items/progressiveautomatedmitosis(infestedsiegetank)_stage1.png",
                 "codes": "progressiveautomatedmitosis(infestedsiegetank), progressiveautomatedmitosis(infestedsiegetank)_stage1"
             },
             {
                 "name": "progressiveautomatedmitosis(infestedsiegetank) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressiveautomatedmitosis(infestedsiegetank).png",
+                "img": "/images/items/progressiveautomatedmitosis(infestedsiegetank)_stage2.png",
                 "codes": "progressiveautomatedmitosis(infestedsiegetank)_stage2"
-            },
-            {
-                "name": "progressiveautomatedmitosis(infestedsiegetank) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressiveautomatedmitosis(infestedsiegetank).png",
-                "codes": "progressiveautomatedmitosis(infestedsiegetank)_stage3"
             }
         ]
     },
@@ -5996,20 +6002,32 @@
             {
                 "name": "progressivezerggroundupgrade stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundupgrade.png",
+                "img": "/images/items/progressivezerggroundupgrade_stage1.png",
                 "codes": "progressivezerggroundupgrade, progressivezerggroundupgrade_stage1"
             },
             {
                 "name": "progressivezerggroundupgrade stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundupgrade.png",
+                "img": "/images/items/progressivezerggroundupgrade_stage2.png",
                 "codes": "progressivezerggroundupgrade_stage2"
             },
             {
                 "name": "progressivezerggroundupgrade stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundupgrade.png",
+                "img": "/images/items/progressivezerggroundupgrade_stage3.png",
                 "codes": "progressivezerggroundupgrade_stage3"
+            },
+            {
+                "name": "progressivezerggroundupgrade stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezerggroundupgrade_stage4.png",
+                "codes": "progressivezerggroundupgrade_stage4"
+            },
+            {
+                "name": "progressivezerggroundupgrade stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezerggroundupgrade_stage5.png",
+                "codes": "progressivezerggroundupgrade_stage5"
             }
         ]
     },
@@ -7154,7 +7172,7 @@
         "codes": "siegetank"
     },
     {
-        "name": "concentratedspew(infesteddiamondback)",
+        "name": "concentratedspew (Infested Diamondback)",
         "type": "toggle",
         "img": "images/items/concentratedspew(infesteddiamondback).png",
         "initial_active_state": false,
@@ -8394,9 +8412,9 @@
         "codes": "campaignkey#109"
     },
     {
-        "name": "frightfulfleshwelder(infesteddiamondback)",
+        "name": "frightfulfleshwelder (Infested Diamondback)",
         "type": "toggle",
-        "img": "images/items/frightfulfleshwelder(infesteddiamondback).png",
+        "img": "images/items/resourceefficiency.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "frightfulfleshwelder(infesteddiamondback)"
@@ -8702,7 +8720,7 @@
         ]
     },
     {
-        "name": "progressivefungalsnare(infesteddiamondback)",
+        "name": "Progressive Fungal Snare (Infested Diamondback)",
         "type": "progressive",
         "loop": false,
         "allow_disabled": true,
@@ -8712,20 +8730,14 @@
             {
                 "name": "progressivefungalsnare(infesteddiamondback) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivefungalsnare(infesteddiamondback).png",
+                "img": "/images/items/progressivefungalsnare(infesteddiamondback)_stage1.png",
                 "codes": "progressivefungalsnare(infesteddiamondback), progressivefungalsnare(infesteddiamondback)_stage1"
             },
             {
                 "name": "progressivefungalsnare(infesteddiamondback) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivefungalsnare(infesteddiamondback).png",
+                "img": "/images/items/progressivefungalsnare(infesteddiamondback)_stage2.png",
                 "codes": "progressivefungalsnare(infesteddiamondback)_stage2"
-            },
-            {
-                "name": "progressivefungalsnare(infesteddiamondback) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivefungalsnare(infesteddiamondback).png",
-                "codes": "progressivefungalsnare(infesteddiamondback)_stage3"
             }
         ]
     },
@@ -8855,20 +8867,32 @@
             {
                 "name": "progressivezergflyerupgrade stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerupgrade.png",
+                "img": "/images/items/progressivezergflyerupgrade_stage1.png",
                 "codes": "progressivezergflyerupgrade, progressivezergflyerupgrade_stage1"
             },
             {
                 "name": "progressivezergflyerupgrade stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerupgrade.png",
+                "img": "/images/items/progressivezergflyerupgrade_stage2.png",
                 "codes": "progressivezergflyerupgrade_stage2"
             },
             {
                 "name": "progressivezergflyerupgrade stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyerupgrade.png",
+                "img": "/images/items/progressivezergflyerupgrade_stage3.png",
                 "codes": "progressivezergflyerupgrade_stage3"
+            },
+            {
+                "name": "progressivezergflyerupgrade stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyerupgrade_stage4.png",
+                "codes": "progressivezergflyerupgrade_stage4"
+            },
+            {
+                "name": "progressivezergflyerupgrade stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyerupgrade_stage5.png",
+                "codes": "progressivezergflyerupgrade_stage5"
             }
         ]
     },
@@ -9789,20 +9813,32 @@
             {
                 "name": "progressivezergmeleeattack stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmeleeattack.png",
+                "img": "/images/items/progressivezergmeleeattack_stage1.png",
                 "codes": "progressivezergmeleeattack, progressivezergmeleeattack_stage1"
             },
             {
                 "name": "progressivezergmeleeattack stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmeleeattack.png",
+                "img": "/images/items/progressivezergmeleeattack_stage2.png",
                 "codes": "progressivezergmeleeattack_stage2"
             },
             {
                 "name": "progressivezergmeleeattack stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmeleeattack.png",
+                "img": "/images/items/progressivezergmeleeattack_stage3.png",
                 "codes": "progressivezergmeleeattack_stage3"
+            },
+            {
+                "name": "progressivezergmeleeattack stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergmeleeattack_stage4.png",
+                "codes": "progressivezergmeleeattack_stage4"
+            },
+            {
+                "name": "progressivezergmeleeattack stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergmeleeattack_stage5.png",
+                "codes": "progressivezergmeleeattack_stage5"
             }
         ]
     },
@@ -10605,7 +10641,7 @@
     {
         "name": "creepstomach(zerg)",
         "type": "toggle",
-        "img": "images/items/creepstomach(zerg).png",
+        "img": "images/items/secretionglands(impaler).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "creepstomach(zerg)"
@@ -11072,7 +11108,7 @@
     {
         "name": "subterraneanscales(nydusworm/echidnaworm)",
         "type": "toggle",
-        "img": "images/items/subterraneanscales(nydusworm/echidnaworm).png",
+        "img": "images/items/subterraneanscales(nyduswormechidnaworm).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "subterraneanscales(nydusworm/echidnaworm)"
@@ -11264,20 +11300,32 @@
             {
                 "name": "progressivezergmissileattack stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmissileattack.png",
+                "img": "/images/items/progressivezergmissileattack_stage1.png",
                 "codes": "progressivezergmissileattack, progressivezergmissileattack_stage1"
             },
             {
                 "name": "progressivezergmissileattack stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmissileattack.png",
+                "img": "/images/items/progressivezergmissileattack_stage2.png",
                 "codes": "progressivezergmissileattack_stage2"
             },
             {
                 "name": "progressivezergmissileattack stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergmissileattack.png",
+                "img": "/images/items/progressivezergmissileattack_stage3.png",
                 "codes": "progressivezergmissileattack_stage3"
+            },
+            {
+                "name": "progressivezergmissileattack stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergmissileattack_stage4.png",
+                "codes": "progressivezergmissileattack_stage4"
+            },
+            {
+                "name": "progressivezergmissileattack stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergmissileattack_stage5.png",
+                "codes": "progressivezergmissileattack_stage5"
             }
         ]
     },
@@ -11896,7 +11944,7 @@
     {
         "name": "excavatingclaws(zerg)",
         "type": "toggle",
-        "img": "images/items/excavatingclaws(zerg).png",
+        "img": "images/items/anabolicsynthesis(ultralisk).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "excavatingclaws(zerg)"
@@ -12210,27 +12258,39 @@
             {
                 "name": "progressivezergflyercarapace stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyercarapace.png",
+                "img": "/images/items/progressivezergflyercarapace_stage1.png",
                 "codes": "progressivezergflyercarapace, progressivezergflyercarapace_stage1"
             },
             {
                 "name": "progressivezergflyercarapace stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyercarapace.png",
+                "img": "/images/items/progressivezergflyercarapace_stage2.png",
                 "codes": "progressivezergflyercarapace_stage2"
             },
             {
                 "name": "progressivezergflyercarapace stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergflyercarapace.png",
+                "img": "/images/items/progressivezergflyercarapace_stage3.png",
                 "codes": "progressivezergflyercarapace_stage3"
+            },
+            {
+                "name": "progressivezergflyercarapace stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyercarapace_stage4.png",
+                "codes": "progressivezergflyercarapace_stage4"
+            },
+            {
+                "name": "progressivezergflyercarapace stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergflyercarapace_stage5.png",
+                "codes": "progressivezergflyercarapace_stage5"
             }
         ]
     },
     {
         "name": "severingglaive(mutalisk)",
         "type": "toggle",
-        "img": "images/items/severingglaive(mutalisk).png",
+        "img": "images/items/sunderingglaive(mutalisk).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "severingglaive(mutalisk)"
@@ -14426,7 +14486,7 @@
         "codes": "resourceefficiency(cyclone)"
     },
     {
-        "name": "violentenzymes(infesteddiamondback)",
+        "name": "violentenzymes (Infested Diamondback)",
         "type": "toggle",
         "img": "images/items/violentenzymes(infesteddiamondback).png",
         "initial_active_state": false,
@@ -16122,20 +16182,32 @@
             {
                 "name": "progressivezergweaponupgrade stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergweaponupgrade.png",
+                "img": "/images/items/progressivezergweaponupgrade_stage1.png",
                 "codes": "progressivezergweaponupgrade, progressivezergweaponupgrade_stage1"
             },
             {
                 "name": "progressivezergweaponupgrade stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergweaponupgrade.png",
+                "img": "/images/items/progressivezergweaponupgrade_stage2.png",
                 "codes": "progressivezergweaponupgrade_stage2"
             },
             {
                 "name": "progressivezergweaponupgrade stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezergweaponupgrade.png",
+                "img": "/images/items/progressivezergweaponupgrade_stage3.png",
                 "codes": "progressivezergweaponupgrade_stage3"
+            },
+            {
+                "name": "progressivezergweaponupgrade stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergweaponupgrade_stage4.png",
+                "codes": "progressivezergweaponupgrade_stage4"
+            },
+            {
+                "name": "progressivezergweaponupgrade stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezergweaponupgrade_stage5.png",
+                "codes": "progressivezergweaponupgrade_stage5"
             }
         ]
     },
@@ -16192,7 +16264,7 @@
         "codes": "questlinekey#174"
     },
     {
-        "name": "causticmucus(infesteddiamondback)",
+        "name": "Caustic Mucus (Infested Diamondback)",
         "type": "toggle",
         "img": "images/items/causticmucus(infesteddiamondback).png",
         "initial_active_state": false,
@@ -17086,20 +17158,32 @@
             {
                 "name": "progressivezerggroundcarapace stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundcarapace.png",
+                "img": "/images/items/progressivezerggroundcarapace_stage1.png",
                 "codes": "progressivezerggroundcarapace, progressivezerggroundcarapace_stage1"
             },
             {
                 "name": "progressivezerggroundcarapace stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundcarapace.png",
+                "img": "/images/items/progressivezerggroundcarapace_stage2.png",
                 "codes": "progressivezerggroundcarapace_stage2"
             },
             {
                 "name": "progressivezerggroundcarapace stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivezerggroundcarapace.png",
+                "img": "/images/items/progressivezerggroundcarapace_stage3.png",
                 "codes": "progressivezerggroundcarapace_stage3"
+            },
+            {
+                "name": "progressivezerggroundcarapace stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezerggroundcarapace_stage4.png",
+                "codes": "progressivezerggroundcarapace_stage4"
+            },
+            {
+                "name": "progressivezerggroundcarapace stage5",
+                "inherit_codes": true,
+                "img": "/images/items/progressivezerggroundcarapace_stage5.png",
+                "codes": "progressivezerggroundcarapace_stage5"
             }
         ]
     },
@@ -18477,7 +18561,7 @@
     {
         "name": "scourgeincubation(corruptor)",
         "type": "toggle",
-        "img": "images/items/scourgeincubation(corruptor).png",
+        "img": "images/items/scourge.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "scourgeincubation(corruptor)"

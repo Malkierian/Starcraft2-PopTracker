@@ -56,7 +56,7 @@
                                     "content": {
                                         "type": "dock",
                                         "dock": "top",
-                                        "v_alignment": "stretch",
+                                        "v_alignment": "top",
                                         "content": [
                                             {
                                                 "type": "group",
@@ -68,31 +68,100 @@
                                                 }
                                             },
                                             {
-                                                "type": "group",
-                                                "header": "Kerrigan",
-                                                "dock": "top",
-                                                "content": {
-                                                    "type": "layout",
-                                                    "key": "item_grid_kerrigan"
-                                                }
-                                            },
-                                            {
-                                                "type": "group",
-                                                "header": "Ground Units",
-                                                "dock": "top",
-                                                "content": {
-                                                    "type": "layout",
-                                                    "key": "item_grid_zerg_ground"
-                                                }
-                                            },
-                                            {
-                                                "type": "group",
-                                                "header": "Flying Units",
-                                                "dock": "top",
-                                                "content": {
-                                                    "type": "layout",
-                                                    "key": "item_grid_zerg_flyer"
-                                                }
+                                                "type": "array",
+                                                "orientation": "vertical",
+                                                "margin": "0,0",
+                                                "dock": "left",
+                                                "content": [
+                                                    {
+                                                        "type": "group",
+                                                        "header": "Kerrigan",
+                                                        "content": {
+                                                            "type": "layout",
+                                                            "key": "item_grid_kerrigan"
+                                                        }
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Ground Units",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_ground"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Mercenaries",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_mercenary"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Morphs",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_morph"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Buildings",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_building"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Flying Units",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_flyer"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Infested Units",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_infested"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Miscellaneous",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_zerg_misc"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }

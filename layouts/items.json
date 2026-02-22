@@ -10,8 +10,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 64,
-                "item_width": 64,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     ["additionalstartingminerals"], ["additionalstartingvespene"], ["additionalstartingsupply"], ["additionalmaximumsupply"],
                     ["decreasedmaximumsupply"], ["increasedbuildingconstructionspeed"], ["increasedshieldregeneration"], ["increasedupgraderesearchspeed"], ["reducedupgraderesearchcost"]
@@ -30,8 +30,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 64,
-                "item_width": 64,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
@@ -52,8 +52,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 64,
-                "item_width": 64,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
@@ -74,8 +74,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 64,
-                "item_width": 64,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "kerriganlevels", "kineticblast(kerriganability)", "leapingstrike(kerriganability)", "crushinggrip(kerriganability)", "psionicshift(kerriganability)", "wildmutation(kerriganability)", "spawnbanelings(kerriganability)",
@@ -102,8 +102,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["zergling"], ["swarmlingstrain(zergling)", "raptorstrain(zergling)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "adrenaloverload(zergling)"], ["zerglingreconstitution(zerg)"]
                         ]
@@ -121,8 +121,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["swarmqueen"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"], ["deeptunnel(swarmqueen)", "spawnlarvae(swarmqueen)"], ["incubatorchamber(swarmqueen)"], ["organiccarapace(swarmqueen)"]
                         ]
@@ -140,8 +140,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["roach"], ["corpserstrain(roach)", "vilestrain(roach)"], ["adaptiveplating(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "organiccarapace(roach)"], ["hydriodicbile(roach)"]
                         ]
@@ -159,8 +159,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["hydralisk"], ["ancillarycarapace(hydralisk)", "resourceefficiency(hydralisk)"], ["frenzy(hydralisk)"], ["groovedspines(hydralisk)"], ["muscularaugments(hydralisk)"]
                         ]
@@ -178,8 +178,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["aberration"], ["banelingincubation(aberration)", "protectivecover(aberration)"], ["constructregeneration(aberration)", "resourceefficiency(aberration)"], ["monstrousresilience(aberration)"], ["progressivebanelinglaunch(aberration)"]
                         ]
@@ -197,8 +197,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["swarmhost"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)", "resourceefficiency(swarmhost)"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)"],
                                 ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
@@ -217,8 +217,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["infestor"], ["infestedterran(infestor)"], ["microbialshroud(infestor)"]
                         ]
@@ -236,8 +236,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["ultralisk"], ["noxiousstrain(ultralisk)", "torrasquestrain(ultralisk)", "resourceefficiency(ultralisk)"], ["anabolicsynthesis(ultralisk)", "chitinousplating(ultralisk)"],
                                 ["burrowcharge(ultralisk)", "organiccarapace(ultralisk)"], ["monarchblades(ultralisk)", "tissueassimilation(ultralisk)"]
@@ -256,8 +256,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["defiler"], ["comorbidity(defiler)"], ["pathogenprojectors(defiler)"], ["predatoryconsumption(defiler)"], ["trapdooradaptation(defiler)"]
                         ]
@@ -275,8 +275,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                                 ["pygalisk"], ["combatcarapace(pygalisk)"], ["ducalblades(pygalisk)"], ["stimpack(pygalisk)"]
                         ]
@@ -301,10 +301,643 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
-                                ["mutalisk"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"], ["deeptunnel(swarmqueen)", "spawnlarvae(swarmqueen)"], ["incubatorchamber(swarmqueen)"], ["organiccarapace(swarmqueen)"]
+                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["corruptor"], ["causticspray(corruptor)", "resourceefficiency(corruptor)"], ["constructregeneration(corruptor)", "scourgeincubation(corruptor)"], ["corruption(corruptor)"], ["monstrousresilience(corruptor)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["scourge"], ["resourceefficiency(scourge)"], ["swarmscourge(scourge)"], ["virulentspores(scourge)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["broodqueen"], ["enhancedmitochondria(broodqueen)"], ["ensnare(broodqueen)"], ["fungalgrowth(broodqueen)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg_morph": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["baneling"], ["hunterstrain(baneling)", "splitterstrain(baneling)"], ["centrifugalhooks(baneling)", "regenerativeacid(baneling)"],
+                                ["corrosiveacid(baneling)", "rupture(baneling)"], ["rapidmetamorph(baneling)", "tunnelingjaws(baneling)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["impaler"], ["adaptivetalons(impaler)"], ["secretionglands(impaler)"], ["sunkenspines(impaler)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["lurker"], ["adaptedspines(lurker)"], ["seismicspines(lurker)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["broodlord"], ["behemothstellarskin(broodlord)"], ["porouscartilage(broodlord)"], ["resourceefficiency(broodlord)"], ["splittermitosis(broodlord)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["viper"], ["paralyticbarbs(viper)"], ["parasiticbomb(viper)"], ["virulentmicrobes(viper)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["guardian"], ["explosivespores(guardian)", "propellantsacs(guardian)"], ["primaladaptation(guardian)", "soronanacid(guardian)"], ["primordialfury(guardian)"], ["prolongeddispersion(guardian)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["devourer"], ["corrosivespray(devourer)"], ["gapingmaw(devourer)"], ["improvedosmosis(devourer)"], ["prescientspores(devourer)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["ravager"], ["bloatedbileducts(ravager)"], ["deeptunnel(ravager)"], ["potentbile(ravager)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["overseer"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["primaligniter"], ["concentratedfire(primaligniter)"], ["primaltenacity(primaligniter)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["tyrannozor"], ["barrageofspikes(tyrannozor)"], ["healingadaptation(tyrannozor)"], ["impalingstrike(tyrannozor)"], ["tyrantsprotection(tyrannozor)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg_infested": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedmarine"], ["plaguedmunitions(infestedmarine)"], ["retinalaugmentation(infestedmarine)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infesteddiamondback"], ["causticmucus(infesteddiamondback)", "frightfulfleshwelder(infesteddiamondback)"], ["concentratedspew(infesteddiamondback)"], ["progressivefungalsnare(infesteddiamondback)"], ["violentenzymes(infesteddiamondback)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedsiegetank"], ["acidicenzymes(infestedsiegetank)", "seismicsonar(infestedsiegetank)"], ["balancedroots(infestedsiegetank)", "frightfulfleshwelder(infestedsiegetank)"], ["deeptunnel(infestedsiegetank)"], ["progressiveautomatedmitosis(infestedsiegetank)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedbanshee"], ["bracedexoskeleton(infestedbanshee)"], ["fleshfusedtargetingoptics(infestedbanshee)"], ["rapidhibernation(infestedbanshee)"], ["frightfulfleshwelder(infestedbanshee)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedliberator"], ["clouddispersal(infestedliberator)"], ["defendermode(infestedliberator)"], ["viralcontamination(infestedliberator)"], ["frightfulfleshwelder(infestedliberator)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["bullfrog"], ["suffusedwithvermin(bullfrog)"], ["lethalimpact(bullfrog)"], ["catalyticboosters(bullfrog)"], ["mutagenvents(bullfrog)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg_building": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["spinecrawler"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["sporecrawler"], ["causticenzymes(sporecrawler)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["bilelauncher"], ["artilleryducts(bilelauncher)"], ["rapidbombardment(bilelauncher)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedbunker"], ["calcifiedarmor(infestedbunker)"], ["engorgedbunkers(infestedbunker)"], ["regenerativeplating(infestedbunker)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedmissileturret"], ["acidsporevents(infestedmissileturret)"], ["bioelectricpayload(infestedmissileturret)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["nydusworm"], ["ravenousappetite(nydusworm)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["nyduswormechidnaworm"], ["jormungandrstrain(nydusworm/echidnaworm)"], ["resourceefficiency(nydusworm/echidnaworm)"], ["subterraneanscales(nydusworm/echidnaworm)"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["echidnaworm"], ["ouroborosstrain(echidnaworm)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg_mercenary": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["infestedmedics", "hunterkillers", "caustichorrors"], ["infestedsiegebreakers", "wiseoldtorrasque"], ["infestedduskwings", "hunterling"], ["devouringones", "yggdrasil"]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["self-sufficient(zerg)"], ["unrestrictedmutation(zerg)"], ["evolutionaryleap(zerg)"], ["celldivision(zerg)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_zerg_misc": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["progressivezergmeleeattack", "progressivezergmissileattack", "progressivezerggroundcarapace", "progressivezergflyerattack", "progressivezergflyercarapace"],
+                                [],
+                                ["improvedoverlords(overlord)", "pneumatizedcarapace(overlord)", "ventralsacs(overlord)", "generatecreep(overlord)", "antennae(overlord)"]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["sustainedcultivationventricles(infestedscv)", "vespeneefficiency(zerg)", "macroscopicrecuperation(zerg)"], ["twindrones(zerg)", "excavatingclaws(zerg)", "bio-mechanicalstockpiling(zerg)"], 
+                                ["automatedextractors(zerg)", "creepstomach(zerg)", "broodlingsporesaturation(zerg)"], ["malignantcreep(zerg)", "hiveclustermaturation(zerg)"]
                         ]
                     }
                 ]
@@ -327,8 +960,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                             [
                                 "drop-pods(kerriganability)",
@@ -1086,7 +1719,7 @@
                                 "ascendant",
                                 "mercenarymunitions(terran)",
                                 "frightfulfleshwelder(infesteddiamondback)",
-                                "progressivekey#164, progressivekey#164_stage1",
+                                "progressivekey#148, progressivekey#164_stage1",
                                 "thedig(terran)missionkey",
                                 "singularitycharge(immortal/annihilator)",
                                 "brothersinarms(zerg)missionkey",
@@ -1585,7 +2218,7 @@
                                 "domination(protoss)missionkey",
                                 "thehost(zerg)missionkey",
                                 "campaignkey#167",
-                                "progressivekey#64, progressivekey#64_stage1",
+                                "progressivekey#48, progressivekey#64_stage1",
                                 "campaignkey#56",
                                 "questlinekey#195",
                                 "campaignkey#128",
