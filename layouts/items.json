@@ -105,7 +105,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["zergling"], ["adrenaloverload(zergling)", "zerglingreconstitution(zerg)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "swarmlingstrain(zergling)"], ["raptorstrain(zergling)"]
+                                ["zergling"], ["swarmlingstrain(zergling)", "raptorstrain(zergling)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "adrenaloverload(zergling)"], ["zerglingreconstitution(zerg)"]
                         ]
                     }
                 ]
@@ -143,7 +143,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["roach"], ["adaptiveplating(roach)", "organiccarapace(roach)"], ["corpserstrain(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "vilestrain(roach)"], ["hydriodicbile(roach)"]
+                                ["roach"], ["corpserstrain(roach)", "vilestrain(roach)"], ["adaptiveplating(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "organiccarapace(roach)"], ["hydriodicbile(roach)"]
                         ]
                     }
                 ]
@@ -200,7 +200,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["swarmhost"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)", "resourceefficiency(swarmhost)"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)"],
+                                ["swarmhost"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)", "resourceefficiency(swarmhost)"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)"],
                                 ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
                         ]
                     }
@@ -259,7 +259,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["defiler"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["defiler"], ["comorbidity(defiler)"], ["pathogenprojectors(defiler)"], ["predatoryconsumption(defiler)"], ["trapdooradaptation(defiler)"]
                         ]
                     }
                 ]
@@ -278,7 +278,7 @@
                         "item_height": 64,
                         "item_width": 64,
                         "rows": [
-                                ["pygalisk"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"]
+                                ["pygalisk"], ["combatcarapace(pygalisk)"], ["ducalblades(pygalisk)"], ["stimpack(pygalisk)"]
                         ]
                     }
                 ]

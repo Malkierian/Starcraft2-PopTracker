@@ -446,21 +446,15 @@
             {
                 "name": "progressivestimpack(marine) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marine).png",
+                "img": "/images/items/progressivestimpack_stage1.png",
                 "codes": "progressivestimpack(marine), progressivestimpack(marine)_stage1"
             },
             {
                 "name": "progressivestimpack(marine) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marine).png",
+                "img": "/images/items/progressivestimpack_stage2.png",
                 "codes": "progressivestimpack(marine)_stage2"
             },
-            {
-                "name": "progressivestimpack(marine) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marine).png",
-                "codes": "progressivestimpack(marine)_stage3"
-            }
         ]
     },
     {
@@ -2036,21 +2030,15 @@
             {
                 "name": "progressivestimpack(reaper) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(reaper).png",
+                "img": "/images/items/progressivestimpack_stage1.png",
                 "codes": "progressivestimpack(reaper), progressivestimpack(reaper)_stage1"
             },
             {
                 "name": "progressivestimpack(reaper) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(reaper).png",
+                "img": "/images/items/progressivestimpack_stage2.png",
                 "codes": "progressivestimpack(reaper)_stage2"
             },
-            {
-                "name": "progressivestimpack(reaper) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(reaper).png",
-                "codes": "progressivestimpack(reaper)_stage3"
-            }
         ]
     },
     {
@@ -2392,7 +2380,7 @@
     {
         "name": "artilleryducts(bilelauncher)",
         "type": "toggle",
-        "img": "images/items/artilleryducts(bilelauncher).png",
+        "img": "images/items/pathogenprojectors(defiler).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "artilleryducts(bilelauncher)"
@@ -2544,7 +2532,7 @@
     {
         "name": "stimpack(pygalisk)",
         "type": "toggle",
-        "img": "images/items/stimpack(pygalisk).png",
+        "img": "images/items/progressivestimpack_stage1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "stimpack(pygalisk)"
@@ -9771,21 +9759,15 @@
             {
                 "name": "progressivestimpack(firebat) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(firebat).png",
+                "img": "/images/items/progressivestimpack_stage1.png",
                 "codes": "progressivestimpack(firebat), progressivestimpack(firebat)_stage1"
             },
             {
                 "name": "progressivestimpack(firebat) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(firebat).png",
+                "img": "/images/items/progressivestimpack_stage2.png",
                 "codes": "progressivestimpack(firebat)_stage2"
             },
-            {
-                "name": "progressivestimpack(firebat) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(firebat).png",
-                "codes": "progressivestimpack(firebat)_stage3"
-            }
         ]
     },
     {
@@ -12158,21 +12140,15 @@
             {
                 "name": "progressivestimpack(hellion) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(hellion).png",
+                "img": "/images/items/progressivestimpack_stage1.png",
                 "codes": "progressivestimpack(hellion), progressivestimpack(hellion)_stage1"
             },
             {
                 "name": "progressivestimpack(hellion) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(hellion).png",
+                "img": "/images/items/progressivestimpack_stage2.png",
                 "codes": "progressivestimpack(hellion)_stage2"
             },
-            {
-                "name": "progressivestimpack(hellion) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(hellion).png",
-                "codes": "progressivestimpack(hellion)_stage3"
-            }
         ]
     },
     {
@@ -14608,21 +14584,15 @@
             {
                 "name": "progressivestimpack(marauder) stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marauder).png",
+                "img": "/images/items/progressivestimpack_stage1.png",
                 "codes": "progressivestimpack(marauder), progressivestimpack(marauder)_stage1"
             },
             {
                 "name": "progressivestimpack(marauder) stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marauder).png",
+                "img": "/images/items/progressivestimpack_stage2.png",
                 "codes": "progressivestimpack(marauder)_stage2"
             },
-            {
-                "name": "progressivestimpack(marauder) stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivestimpack(marauder).png",
-                "codes": "progressivestimpack(marauder)_stage3"
-            }
         ]
     },
     {
@@ -15131,7 +15101,7 @@
         "codes": "campaignkey#138"
     },
     {
-        "name": "pygalisk",
+        "name": "Pygalisk",
         "type": "toggle",
         "img": "images/items/pygalisk.png",
         "initial_active_state": false,
