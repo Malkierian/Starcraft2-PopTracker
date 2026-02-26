@@ -41,24 +41,28 @@
             }
         ]
     },
-    "item_grid_terran": {
+    "item_grid_terran_misc": {
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
         "content": [
             {
-                "type": "itemgrid",
-                "item_margin": "2, 2",
-                "h_alignment": "left",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
-                "item_height": 48,
-                "item_width": 48,
-                "rows": [
-                    [
-                        "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
-                        "decreasedmaximumsupply", "increasedbuildingconstructionspeed", "increasedshieldregeneration", "increasedupgraderesearchspeed", "reducedupgraderesearchcost"
-                    ]
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"]
+                        ]
+                    }
                 ]
             }
         ]
@@ -938,6 +942,136 @@
                         "rows": [
                                 ["sustainedcultivationventricles(infestedscv)", "vespeneefficiency(zerg)", "macroscopicrecuperation(zerg)"], ["twindrones(zerg)", "excavatingclaws(zerg)", "bio-mechanicalstockpiling(zerg)"], 
                                 ["automatedextractors(zerg)", "creepstomach(zerg)", "broodlingsporesaturation(zerg)"], ["malignantcreep(zerg)", "hiveclustermaturation(zerg)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_protoss_gateway": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["zealot"], ["whirlwind(zealot)"]
+                        ]
+                    }
+                ]
+            },
+        ]
+    },
+    "item_grid_protoss_robotics": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_protoss_stargate": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_protoss_buildings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "item_grid_protoss_misc": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 48,
+                        "item_width": 48,
+                        "rows": [
+                                ["progressiveprotossgroundweapon", "progressiveprotossgroundarmor", "progressiveprotossshields", "progressiveprotossairweapon", "progressiveprotossairarmor"]
                         ]
                     }
                 ]

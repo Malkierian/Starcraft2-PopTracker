@@ -45,7 +45,16 @@
                                                 "dock": "top",
                                                 "content": {
                                                     "type": "layout",
-                                                    "key": "item_grid_terran"
+                                                    "key": "item_grid_terran_barracks"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Units",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran_misc"
                                                 }
                                             }
                                         ]
@@ -165,7 +174,99 @@
                                             }
                                         ]
                                     }
-                                }
+                                },
+                                {
+                                    "title": "Protoss Items",
+                                    "content": {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "v_alignment": "top",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Filler",
+                                                "dock": "left",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_filler"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Gateway",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_protoss_gateway"
+                                                }
+                                            },
+                                            {
+                                                "type": "array",
+                                                "orientation": "vertical",
+                                                "margin": "0,0",
+                                                "dock": "left",
+                                                "content": [
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Robotics Facility",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_protoss_robotics"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Stargate",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_protoss_stargate"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Buildings",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_protoss_buildings"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "orientation": "horizontal",
+                                                        "margin": "0,0",
+                                                        "dock": "left",
+                                                        "content": [
+                                                            {
+                                                                "type": "group",
+                                                                "header": "Miscellaneous",
+                                                                "content": {
+                                                                    "type": "layout",
+                                                                    "key": "item_grid_protoss_misc"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
                             ]
                         }
                     ]
