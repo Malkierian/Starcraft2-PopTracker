@@ -462,7 +462,7 @@
 	{
 		"name": "Argus Amplifier (Hive Mind Emulator)",
 		"type": "toggle",
-		"img": "images/items/argusamplifier(hivemindemulator).png",
+		"img": "images/items/argustalisman(darkarchon).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "argusamplifier(hivemindemulator)"
@@ -526,7 +526,7 @@
 	{
 		"name": "Assistive Targeting (Sensor Tower)",
 		"type": "toggle",
-		"img": "images/items/assistivetargeting(sensortower).png",
+		"img": "images/items/enduringsight(havoc).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "assistivetargeting(sensortower)"
@@ -1935,7 +1935,7 @@
 	{
 		"name": "Feedback (Dark Archon)",
 		"type": "toggle",
-		"img": "images/items/feedback(darkarchon).png",
+		"img": "images/items/feedback.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "feedback(darkarchon)"
@@ -1943,7 +1943,7 @@
 	{
 		"name": "Feedback (Signifier)",
 		"type": "toggle",
-		"img": "images/items/feedback(signifier).png",
+		"img": "images/items/feedback.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "feedback(signifier)"
@@ -2279,7 +2279,7 @@
 	{
 		"name": "Hallucination (High Templar/Signifier)",
 		"type": "toggle",
-		"img": "images/items/hallucination(hightemplar/signifier).png",
+		"img": "images/items/hallucination.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "hallucination(hightemplar/signifier)"
@@ -2287,7 +2287,7 @@
 	{
 		"name": "Hallucination (Sentry)",
 		"type": "toggle",
-		"img": "images/items/hallucination(sentry).png",
+		"img": "images/items/hallucination.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "hallucination(sentry)"
@@ -3032,7 +3032,7 @@
 		"codes": "jumpsuitmodule(novasuitmodule)"
 	},
 	{
-		"name": "Karge Scale Field Construction (Thor)",
+		"name": "Large Scale Field Construction (Thor)",
 		"type": "toggle",
 		"img": "images/items/largescalefieldconstruction(thor).png",
 		"initial_active_state": false,
@@ -3472,7 +3472,7 @@
 	{
 		"name": "Mobile Chronobeam (Energizer)",
 		"type": "toggle",
-		"img": "images/items/mobilechronobeam(energizer).png",
+		"img": "images/items/enduringsight(havoc).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "mobilechronobeam(energizer)"
@@ -4398,7 +4398,7 @@
 			{
 				"name": "Progressive High Impact Payload (Thor) Level 2",
 				"inherit_codes": true,
-				"img": "/images/items/progressivehighimpactpayload(thor)_stage2.png",
+				"img": "/images/items/smartservos.png",
 				"codes": "progressivehighimpactpayload(thor)_stage2"
 			}
 		]
@@ -7127,7 +7127,7 @@
 	{
 		"name": "Smart Servos (Hellion)",
 		"type": "toggle",
-		"img": "images/items/smartservos(hellion).png",
+		"img": "images/items/smartservos.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "smartservos(hellion)"
@@ -7135,7 +7135,7 @@
 	{
 		"name": "Smart Servos (Liberator)",
 		"type": "toggle",
-		"img": "images/items/smartservos(liberator).png",
+		"img": "images/items/smartservos.png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "smartservos(liberator)"
