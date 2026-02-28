@@ -8,8 +8,6 @@
                 "type": "itemgrid",
                 "item_margin": "2, 2",
                 "h_alignment": "left",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
@@ -28,8 +26,6 @@
                 "type": "itemgrid",
                 "item_margin": "2, 2",
                 "h_alignment": "left",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
@@ -47,22 +43,13 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"]
                 ]
             }
         ]
@@ -76,8 +63,6 @@
                 "type": "itemgrid",
                 "item_margin": "2, 2",
                 "h_alignment": "left",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
@@ -96,195 +81,105 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["zergling"], ["swarmlingstrain(zergling)", "raptorstrain(zergling)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "adrenaloverload(zergling)"], ["zerglingreconstitution(zerg)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["zergling"], ["swarmlingstrain(zergling)", "raptorstrain(zergling)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "adrenaloverload(zergling)"], ["zerglingreconstitution(zerg)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["swarmqueen"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"], ["deeptunnel(swarmqueen)", "spawnlarvae(swarmqueen)"], ["incubatorchamber(swarmqueen)"], ["organiccarapace(swarmqueen)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["swarmqueen"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"], ["deeptunnel(swarmqueen)", "spawnlarvae(swarmqueen)"], ["incubatorchamber(swarmqueen)"], ["organiccarapace(swarmqueen)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["roach"], ["corpserstrain(roach)", "vilestrain(roach)"], ["adaptiveplating(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "organiccarapace(roach)"], ["hydriodicbile(roach)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["roach"], ["corpserstrain(roach)", "vilestrain(roach)"], ["adaptiveplating(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "organiccarapace(roach)"], ["hydriodicbile(roach)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["hydralisk"], ["ancillarycarapace(hydralisk)", "resourceefficiency(hydralisk)"], ["frenzy(hydralisk)"], ["groovedspines(hydralisk)"], ["muscularaugments(hydralisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["hydralisk"], ["ancillarycarapace(hydralisk)", "resourceefficiency(hydralisk)"], ["frenzy(hydralisk)"], ["groovedspines(hydralisk)"], ["muscularaugments(hydralisk)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["aberration"], ["banelingincubation(aberration)", "protectivecover(aberration)"], ["constructregeneration(aberration)", "resourceefficiency(aberration)"], ["monstrousresilience(aberration)"], ["progressivebanelinglaunch(aberration)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["aberration"], ["banelingincubation(aberration)", "protectivecover(aberration)"], ["constructregeneration(aberration)", "resourceefficiency(aberration)"], ["monstrousresilience(aberration)"], ["progressivebanelinglaunch(aberration)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["swarmhost"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)", "resourceefficiency(swarmhost)"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)"],
-                                ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["swarmhost"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)", "resourceefficiency(swarmhost)"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)"],
+                        ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestor"], ["infestedterran(infestor)"], ["microbialshroud(infestor)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestor"], ["infestedterran(infestor)"], ["microbialshroud(infestor)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["ultralisk"], ["noxiousstrain(ultralisk)", "torrasquestrain(ultralisk)", "resourceefficiency(ultralisk)"], ["anabolicsynthesis(ultralisk)", "chitinousplating(ultralisk)"],
-                                ["burrowcharge(ultralisk)", "organiccarapace(ultralisk)"], ["monarchblades(ultralisk)", "tissueassimilation(ultralisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["ultralisk"], ["noxiousstrain(ultralisk)", "torrasquestrain(ultralisk)", "resourceefficiency(ultralisk)"], ["anabolicsynthesis(ultralisk)", "chitinousplating(ultralisk)"],
+                        ["burrowcharge(ultralisk)", "organiccarapace(ultralisk)"], ["monarchblades(ultralisk)", "tissueassimilation(ultralisk)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["defiler"], ["comorbidity(defiler)"], ["pathogenprojectors(defiler)"], ["predatoryconsumption(defiler)"], ["trapdooradaptation(defiler)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["defiler"], ["comorbidity(defiler)"], ["pathogenprojectors(defiler)"], ["predatoryconsumption(defiler)"], ["trapdooradaptation(defiler)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["pygalisk"], ["combatcarapace(pygalisk)"], ["ducalblades(pygalisk)"], ["stimpack(pygalisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["pygalisk"], ["combatcarapace(pygalisk)"], ["ducalblades(pygalisk)"], ["stimpack(pygalisk)"]
                 ]
             }
         ]
@@ -295,79 +190,43 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["corruptor"], ["causticspray(corruptor)", "resourceefficiency(corruptor)"], ["constructregeneration(corruptor)", "scourgeincubation(corruptor)"], ["corruption(corruptor)"], ["monstrousresilience(corruptor)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["corruptor"], ["causticspray(corruptor)", "resourceefficiency(corruptor)"], ["constructregeneration(corruptor)", "scourgeincubation(corruptor)"], ["corruption(corruptor)"], ["monstrousresilience(corruptor)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["scourge"], ["resourceefficiency(scourge)"], ["swarmscourge(scourge)"], ["virulentspores(scourge)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["scourge"], ["resourceefficiency(scourge)"], ["swarmscourge(scourge)"], ["virulentspores(scourge)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["broodqueen"], ["enhancedmitochondria(broodqueen)"], ["ensnare(broodqueen)"], ["fungalgrowth(broodqueen)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["broodqueen"], ["enhancedmitochondria(broodqueen)"], ["ensnare(broodqueen)"], ["fungalgrowth(broodqueen)"]
                 ]
             }
         ]
@@ -378,213 +237,114 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["baneling"], ["hunterstrain(baneling)", "splitterstrain(baneling)"], ["centrifugalhooks(baneling)", "regenerativeacid(baneling)"],
-                                ["corrosiveacid(baneling)", "rupture(baneling)"], ["rapidmetamorph(baneling)", "tunnelingjaws(baneling)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["baneling"], ["hunterstrain(baneling)", "splitterstrain(baneling)"], ["centrifugalhooks(baneling)", "regenerativeacid(baneling)"],
+                        ["corrosiveacid(baneling)", "rupture(baneling)"], ["rapidmetamorph(baneling)", "tunnelingjaws(baneling)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["impaler"], ["adaptivetalons(impaler)"], ["secretionglands(impaler)"], ["sunkenspines(impaler)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["impaler"], ["adaptivetalons(impaler)"], ["secretionglands(impaler)"], ["sunkenspines(impaler)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["lurker"], ["adaptedspines(lurker)"], ["seismicspines(lurker)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["lurker"], ["adaptedspines(lurker)"], ["seismicspines(lurker)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["broodlord"], ["behemothstellarskin(broodlord)"], ["porouscartilage(broodlord)"], ["resourceefficiency(broodlord)"], ["splittermitosis(broodlord)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["broodlord"], ["behemothstellarskin(broodlord)"], ["porouscartilage(broodlord)"], ["resourceefficiency(broodlord)"], ["splittermitosis(broodlord)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["viper"], ["paralyticbarbs(viper)"], ["parasiticbomb(viper)"], ["virulentmicrobes(viper)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["viper"], ["paralyticbarbs(viper)"], ["parasiticbomb(viper)"], ["virulentmicrobes(viper)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["guardian"], ["explosivespores(guardian)", "propellantsacs(guardian)"], ["primaladaptation(guardian)", "soronanacid(guardian)"], ["primordialfury(guardian)"], ["prolongeddispersion(guardian)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["guardian"], ["explosivespores(guardian)", "propellantsacs(guardian)"], ["primaladaptation(guardian)", "soronanacid(guardian)"], ["primordialfury(guardian)"], ["prolongeddispersion(guardian)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["devourer"], ["corrosivespray(devourer)"], ["gapingmaw(devourer)"], ["improvedosmosis(devourer)"], ["prescientspores(devourer)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["devourer"], ["corrosivespray(devourer)"], ["gapingmaw(devourer)"], ["improvedosmosis(devourer)"], ["prescientspores(devourer)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["ravager"], ["bloatedbileducts(ravager)"], ["deeptunnel(ravager)"], ["potentbile(ravager)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["ravager"], ["bloatedbileducts(ravager)"], ["deeptunnel(ravager)"], ["potentbile(ravager)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["overseer"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["overseer"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["primaligniter"], ["concentratedfire(primaligniter)"], ["primaltenacity(primaligniter)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["primaligniter"], ["concentratedfire(primaligniter)"], ["primaltenacity(primaligniter)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["tyrannozor"], ["barrageofspikes(tyrannozor)"], ["healingadaptation(tyrannozor)"], ["impalingstrike(tyrannozor)"], ["tyrantsprotection(tyrannozor)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["tyrannozor"], ["barrageofspikes(tyrannozor)"], ["healingadaptation(tyrannozor)"], ["impalingstrike(tyrannozor)"], ["tyrantsprotection(tyrannozor)"]
                 ]
             }
         ]
@@ -595,117 +355,63 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedmarine"], ["plaguedmunitions(infestedmarine)"], ["retinalaugmentation(infestedmarine)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedmarine"], ["plaguedmunitions(infestedmarine)"], ["retinalaugmentation(infestedmarine)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infesteddiamondback"], ["causticmucus(infesteddiamondback)", "frightfulfleshwelder(infesteddiamondback)"], ["concentratedspew(infesteddiamondback)"], ["progressivefungalsnare(infesteddiamondback)"], ["violentenzymes(infesteddiamondback)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infesteddiamondback"], ["causticmucus(infesteddiamondback)", "frightfulfleshwelder(infesteddiamondback)"], ["concentratedspew(infesteddiamondback)"], ["progressivefungalsnare(infesteddiamondback)"], ["violentenzymes(infesteddiamondback)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedsiegetank"], ["acidicenzymes(infestedsiegetank)", "seismicsonar(infestedsiegetank)"], ["balancedroots(infestedsiegetank)", "frightfulfleshwelder(infestedsiegetank)"], ["deeptunnel(infestedsiegetank)"], ["progressiveautomatedmitosis(infestedsiegetank)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedsiegetank"], ["acidicenzymes(infestedsiegetank)", "seismicsonar(infestedsiegetank)"], ["balancedroots(infestedsiegetank)", "frightfulfleshwelder(infestedsiegetank)"], ["deeptunnel(infestedsiegetank)"], ["progressiveautomatedmitosis(infestedsiegetank)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedbanshee"], ["bracedexoskeleton(infestedbanshee)"], ["fleshfusedtargetingoptics(infestedbanshee)"], ["rapidhibernation(infestedbanshee)"], ["frightfulfleshwelder(infestedbanshee)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedbanshee"], ["bracedexoskeleton(infestedbanshee)"], ["fleshfusedtargetingoptics(infestedbanshee)"], ["rapidhibernation(infestedbanshee)"], ["frightfulfleshwelder(infestedbanshee)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedliberator"], ["clouddispersal(infestedliberator)"], ["defendermode(infestedliberator)"], ["viralcontamination(infestedliberator)"], ["frightfulfleshwelder(infestedliberator)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedliberator"], ["clouddispersal(infestedliberator)"], ["defendermode(infestedliberator)"], ["viralcontamination(infestedliberator)"], ["frightfulfleshwelder(infestedliberator)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["bullfrog"], ["suffusedwithvermin(bullfrog)"], ["lethalimpact(bullfrog)"], ["catalyticboosters(bullfrog)"], ["mutagenvents(bullfrog)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["bullfrog"], ["suffusedwithvermin(bullfrog)"], ["lethalimpact(bullfrog)"], ["catalyticboosters(bullfrog)"], ["mutagenvents(bullfrog)"]
                 ]
             }
         ]
@@ -716,155 +422,83 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["spinecrawler"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["spinecrawler"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["sporecrawler"], ["causticenzymes(sporecrawler)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sporecrawler"], ["causticenzymes(sporecrawler)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["bilelauncher"], ["artilleryducts(bilelauncher)"], ["rapidbombardment(bilelauncher)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["bilelauncher"], ["artilleryducts(bilelauncher)"], ["rapidbombardment(bilelauncher)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedbunker"], ["calcifiedarmor(infestedbunker)"], ["engorgedbunkers(infestedbunker)"], ["regenerativeplating(infestedbunker)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedbunker"], ["calcifiedarmor(infestedbunker)"], ["engorgedbunkers(infestedbunker)"], ["regenerativeplating(infestedbunker)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedmissileturret"], ["acidsporevents(infestedmissileturret)"], ["bioelectricpayload(infestedmissileturret)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedmissileturret"], ["acidsporevents(infestedmissileturret)"], ["bioelectricpayload(infestedmissileturret)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["nydusworm"], ["ravenousappetite(nydusworm)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["nydusworm"], ["ravenousappetite(nydusworm)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["nyduswormechidnaworm"], ["jormungandrstrain(nydusworm/echidnaworm)"], ["resourceefficiency(nydusworm/echidnaworm)"], ["subterraneanscales(nydusworm/echidnaworm)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["nyduswormechidnaworm"], ["jormungandrstrain(nydusworm/echidnaworm)"], ["resourceefficiency(nydusworm/echidnaworm)"], ["subterraneanscales(nydusworm/echidnaworm)"]
                 ]
             },
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["echidnaworm"], ["ouroborosstrain(echidnaworm)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["echidnaworm"], ["ouroborosstrain(echidnaworm)"]
                 ]
             }
         ]
@@ -875,34 +509,23 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["infestedmedics", "hunterkillers", "caustichorrors"], ["infestedsiegebreakers", "wiseoldtorrasque"], ["infestedduskwings", "hunterling"], ["devouringones", "yggdrasil"]
-                        ]
-                    },
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["self-sufficient(zerg)"], ["unrestrictedmutation(zerg)"], ["evolutionaryleap(zerg)"], ["celldivision(zerg)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["infestedmedics", "hunterkillers", "caustichorrors"], ["infestedsiegebreakers", "wiseoldtorrasque"], ["infestedduskwings", "hunterling"], ["devouringones", "yggdrasil"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["self-sufficient(zerg)"], ["unrestrictedmutation(zerg)"], ["evolutionaryleap(zerg)"], ["celldivision(zerg)"]
                 ]
             }
         ]
@@ -913,37 +536,26 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["progressivezergmeleeattack", "progressivezergmissileattack", "progressivezerggroundcarapace", "progressivezergflyerattack", "progressivezergflyercarapace"],
-                                [],
-                                ["improvedoverlords(overlord)", "pneumatizedcarapace(overlord)", "ventralsacs(overlord)", "generatecreep(overlord)", "antennae(overlord)"]
-                        ]
-                    },
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["sustainedcultivationventricles(infestedscv)", "vespeneefficiency(zerg)", "macroscopicrecuperation(zerg)"], ["twindrones(zerg)", "excavatingclaws(zerg)", "bio-mechanicalstockpiling(zerg)"], 
-                                ["automatedextractors(zerg)", "creepstomach(zerg)", "broodlingsporesaturation(zerg)"], ["malignantcreep(zerg)", "hiveclustermaturation(zerg)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["progressivezergmeleeattack", "progressivezergmissileattack", "progressivezerggroundcarapace", "progressivezergflyerattack", "progressivezergflyercarapace"],
+                        [],
+                        ["improvedoverlords(overlord)", "pneumatizedcarapace(overlord)", "ventralsacs(overlord)", "generatecreep(overlord)", "antennae(overlord)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sustainedcultivationventricles(infestedscv)", "vespeneefficiency(zerg)", "macroscopicrecuperation(zerg)"], ["twindrones(zerg)", "excavatingclaws(zerg)", "bio-mechanicalstockpiling(zerg)"], 
+                        ["automatedextractors(zerg)", "creepstomach(zerg)", "broodlingsporesaturation(zerg)"], ["malignantcreep(zerg)", "hiveclustermaturation(zerg)"]
                 ]
             }
         ]
@@ -954,24 +566,15 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["zealot"], ["whirlwind(zealot)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["zealot"], ["whirlwind(zealot)"]
                 ]
-            },
+            }
         ]
     },
     "item_grid_protoss_robotics": {
@@ -980,22 +583,13 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
                 ]
             }
         ]
@@ -1006,22 +600,13 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
                 ]
             }
         ]
@@ -1032,22 +617,13 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
                 ]
             }
         ]
@@ -1058,22 +634,13 @@
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "0, 0",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                                ["progressiveprotossgroundweapon", "progressiveprotossgroundarmor", "progressiveprotossshields", "progressiveprotossairweapon", "progressiveprotossairarmor"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["progressiveprotossgroundweapon", "progressiveprotossgroundarmor", "progressiveprotossshields", "progressiveprotossairweapon", "progressiveprotossairarmor"]
                 ]
             }
         ]
