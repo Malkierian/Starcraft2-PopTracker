@@ -1,0 +1,9 @@
+{
+    "itemgrid": {
+        "type": "itemgrid",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "item_height": 48,
+        "item_width": 48
+    }
+}

@@ -37,6 +37,431 @@
             }
         ]
     },
+    "item_grid_terran_barracks": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["marine"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["medic"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["firebat"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["marauder"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["reaper"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["ghost"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["spectre"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["dominiontrooper"]
+                ]
+            }
+        ]
+    },
+    "item_grid_terran_factory": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["hellion"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["vulture"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["goliath"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["diamondback"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["siegetank"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["thor"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["predator"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["widowmine"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["cyclone"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["warhound"]
+                ]
+            }
+        ]
+    },
+    "item_grid_terran_starport": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["medivac"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["wraith"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["viking"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["banshee"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["liberator"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["valkyrie"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["raven"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sciencevessel"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["hercules"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["battlecruiser"]
+                ]
+            }
+        ]
+    },
+    "item_grid_terran_buildings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["bunker"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["missileturret"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sensortower"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["devastatorturret"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["planetaryfortress"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["perditionturret"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["hivemindemulator"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["psidisrupter"]
+                ]
+            }
+        ]
+    },
+    "item_grid_terran_merc": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["warpigs", "siegebreakers", "skibisangels", "brynhilds"], ["devildogs", "helsangels", "deathheads", "jotun"], ["hammersecurities", "duskwings", "wingednightmares"], ["spartancompany", "jacksonsrevenge", "midnightriders"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["rogueforces(terran)"], ["rapidreinforcement(terran)"], ["signalbeacon(terran)"], ["progressivefastdelivery(terran)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sonofkorhal", "fieldresponsetheta", "aegisguard", "emperorsshadow"], ["bulwarkcompany", "shockdivision", "blackhammer", "nighthawk"], ["nightwolf", "emperorsguardian", "skyfury", "prideofaugustgrad"]
+                ]
+            }
+        ]
+    },
     "item_grid_terran_misc": {
         "type": "array",
         "orientation": "horizontal",
@@ -49,7 +474,40 @@
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
-                        ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"]
+                        ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"],
+                        [],
+                        ["advancedconstruction(scv)", "dual-fusionwelders(scv)", "hostileenvironmentadaptation(scv)", "constructionjumpjets(scv)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["highexplosivemunition(spidermine)"], ["cerberusmine(spidermine)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["scannersweep(commandcenter)"], ["mule(commandcenter)"], ["extrasupplies(commandcenter)"], ["commandcenterreactor(commandcenter)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["progressivefire-suppressionsystem(terran)", "micro-filtering(terran)", "cellularreactor(terran)", "advancedoptics(terran)"], ["ultra-capacitors(terran)", "automatedrefinery(terran)", "progressiveregenerativebio-steel(terran)", "mechanicalknow-how"],
+                        ["vanadiumplating(terran)", "techreactor(terran)", "structurearmor(terran)", "mercenarymunitions(terran)"], ["orbitaldepots(terran)", "orbitalstrike(terran)", "hi-secautotracking(terran)", "fusionreactor(terran)"]
                 ]
             }
         ]
@@ -574,6 +1032,216 @@
                 "rows": [
                         ["zealot"], ["whirlwind(zealot)"]
                 ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["centurion"], ["resourceefficiency(centurion)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sentinel"], ["resourceefficiency(sentinel)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["zealotcenturionsentinel"], ["legenhancements(zealot/sentinel/centurion)"], ["shieldcapacity(zealot/sentinel/centurion)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["supplicant"], ["bloodshield(supplicant)", "zenithpitch(supplicant)"], ["endlessservitude(supplicant)"], ["sacrifice(supplicant)"], ["soulaugmentation(supplicant)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["stalker"], ["phasereactor(stalker)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["instigator"], ["blinkoverdrive(instigator)"], ["modernizedservos(instigator)"], ["reconstruction(instigator)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["slayer"], ["phaseblink(slayer)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["stalkerinstigatorslayer"], ["disintegratingparticles(stalker/instigator/slayer)"], ["particlereflection(stalker/instigator/slayer)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["sentry"], ["doubleshieldrecharge(sentry)"], ["forcefield(sentry)"], ["hallucination(sentry)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["energizer"], ["forgedchassis(energizer)"], ["mobilechronobeam(energizer)"], ["reclamation(energizer)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["havoc"], ["bloodshardresonance(havoc)"], ["detectweakness(havoc)"], ["enduringsight(havoc)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["dragoon"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["adept"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["hightemplar"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["signifier"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["ascendant"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["normalarchon"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["darkarchon"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["darktemplar"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["avenger"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["bloodhunter"]
+                ]
             }
         ]
     },
@@ -589,7 +1257,97 @@
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
-                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ["immortal"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["annihilator"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["vanguard"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["stalwart"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["colossus"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["wrathwalker"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["reaver"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["disruptor"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["observer"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["warpprism"]
                 ]
             }
         ]
@@ -606,7 +1364,187 @@
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
-                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ["phoenix"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mirage"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["skirmisher"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["corsair"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["voidray"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["destroyer"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["pulsar"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["dawnbringer"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["scout"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["oppressor"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["caladrius"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mistwing"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["carrier"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["trireme"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["skylord"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["tempest"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["arbiter"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["oracle"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["mothership"]
                 ]
             }
         ]
@@ -623,7 +1561,27 @@
                 "item_height": 48,
                 "item_width": 48,
                 "rows": [
-                        ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
+                        ["photoncannon"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["khaydarinmonolith"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["shieldbattery"]
                 ]
             }
         ]
@@ -641,6 +1599,38 @@
                 "item_width": 48,
                 "rows": [
                         ["progressiveprotossgroundweapon", "progressiveprotossgroundarmor", "progressiveprotossshields", "progressiveprotossairweapon", "progressiveprotossairarmor"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["chronosurge(spearofadun)", "temporalfield(spearofadun)", "deployfenix(spearofadun)"], ["progressiveproxypylon(spearofadun)", "solarlance(spearofadun)", "purifierbeam(spearofadun)"],
+                        ["pylonovercharge(spearofadun)", "massrecall(spearofadun)", "timestop(spearofadun)"], ["orbitalstrike(spearofadun)", "shieldovercharge(spearofadun)", "solarbombardment(spearofadun)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["guardianshell(spearofadun)"], ["reconstructionbeam(spearofadun)"], ["overwatch(spearofadun)"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "0, 0",
+                "h_alignment": "left",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                        ["matrixoverload(protoss)", "warpharmonization(protoss)", "probewarp-in(protoss)"], ["quatro(protoss)", "superiorwarpgates(protoss)", "elderprobes(protoss)"],
+                        ["orbitalassimilators(protoss)", "khalaiingenuity(protoss)"], ["amplifiedassimilators(protoss)", "progressivewarprelocate(protoss)"]
                 ]
             }
         ]

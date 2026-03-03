@@ -230,7 +230,7 @@
 	{
 		"name": "Advanced Photon Blasters (Scout/Oppressor/Mistwing)",
 		"type": "toggle",
-		"img": "images/items/advancedphotonblasters(scout/oppressor/mistwing).png",
+		"img": "images/items/advancedphotonblasters(scout-oppressor-mistwing).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "advancedphotonblasters(scout/oppressor/mistwing)"
@@ -350,7 +350,7 @@
 	{
 		"name": "Anion Pulse-crystals (Phoenix/Mirage/Skirmisher)",
 		"type": "toggle",
-		"img": "images/items/anionpulse-crystals(phoenix/mirage/skirmisher).png",
+		"img": "images/items/anionpulse-crystals(phoenix-mirage-skirmisher).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "anionpulse-crystals(phoenix/mirage/skirmisher)"
@@ -750,7 +750,7 @@
 	{
 		"name": "Blink (Darktemplar/Avenger/Blood Hunter)",
 		"type": "toggle",
-		"img": "images/items/blink(darktemplar/avenger/bloodhunter).png",
+		"img": "images/items/blink(darktemplar-avenger-bloodhunter).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "blink(darktemplar/avenger/bloodhunter)"
@@ -1142,7 +1142,7 @@
 	{
 		"name": "Cloaking Module (Sentry/Energizer/Havoc)",
 		"type": "toggle",
-		"img": "images/items/cloakingmodule(sentry/energizer/havoc).png",
+		"img": "images/items/cloakingmodule(sentry-energizer-havoc).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "cloakingmodule(sentry/energizer/havoc)"
@@ -1182,7 +1182,7 @@
 	{
 		"name": "Combat Sensor Array (Scout/Oppressor/Caladrius/Mistwing)",
 		"type": "toggle",
-		"img": "images/items/combatsensorarray(scout/oppressor/caladrius/mistwing).png",
+		"img": "images/items/combatsensorarray(scout-oppressor-caladrius-mistwing).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "combatsensorarray(scout/oppressor/caladrius/mistwing)"
@@ -1575,7 +1575,7 @@
 	{
 		"name": "Disintegrating Particles (Stalker/Instigator/Slayer)",
 		"type": "toggle",
-		"img": "images/items/disintegratingparticles(stalker/instigator/slayer).png",
+		"img": "images/items/disintegratingparticles(stalker-instigator-slayer).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "disintegratingparticles(stalker/instigator/slayer)"
@@ -1607,7 +1607,7 @@
 	{
 		"name": "Disruptor Dispersion (Immortal/Annihilator)",
 		"type": "toggle",
-		"img": "images/items/disruptordispersion(immortal/annihilator).png",
+		"img": "images/items/disruptordispersion(immortal-annihilator).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "disruptordispersion(immortal/annihilator)"
@@ -2007,7 +2007,7 @@
 	{
 		"name": "Flux Vanes (Voidray/Destroyer/Pulsar/Dawnbringer)",
 		"type": "toggle",
-		"img": "images/items/fluxvanes(voidray/destroyer/pulsar/dawnbringer).png",
+		"img": "images/items/fluxvanes(voidray-destroyer-pulsar-dawnbringer).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "fluxvanes(voidray/destroyer/pulsar/dawnbringer)"
@@ -2199,7 +2199,7 @@
 	{
 		"name": "Gravitic Thrusters (Scout/Oppressor/Caladrius/Mistwing)",
 		"type": "toggle",
-		"img": "images/items/graviticthrusters(scout/oppressor/caladrius/mistwing).png",
+		"img": "images/items/graviticthrusters(scout-oppressor-caladrius-mistwing).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "graviticthrusters(scout/oppressor/caladrius/mistwing)"
@@ -2215,7 +2215,7 @@
 	{
 		"name": "Graviton Catapult (Carrier/Trireme)",
 		"type": "toggle",
-		"img": "images/items/gravitoncatapult(carrier/trireme).png",
+		"img": "images/items/gravitoncatapult(carrier-trireme).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "gravitoncatapult(carrier/trireme)"
@@ -3064,7 +3064,7 @@
 	{
 		"name": "Khaydarin Amulet (Hightemplar/Signifier)",
 		"type": "toggle",
-		"img": "images/items/khaydarinamulet(hightemplar/signifier).png",
+		"img": "images/items/khaydarinamulet(hightemplar-signifier).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "khaydarinamulet(hightemplar/signifier)"
@@ -3208,7 +3208,7 @@
 	{
 		"name": "Leg Enhancements (Zealot/Sentinel/Centurion)",
 		"type": "toggle",
-		"img": "images/items/legenhancements(zealot/sentinel/centurion).png",
+		"img": "images/items/legenhancements(zealot-sentinel-centurion).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "legenhancements(zealot/sentinel/centurion)"
@@ -3424,7 +3424,7 @@
 	{
 		"name": "Micro-filtering (Terran)",
 		"type": "toggle",
-		"img": "images/items/micro-filtering(terran).png",
+		"img": "images/items/amplifiedassimilators(protoss).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "micro-filtering(terran)"
@@ -6238,7 +6238,7 @@
 	{
 		"name": "Rapid Recharging (Sentry/Energizer/Havoc/Shieldbattery)",
 		"type": "toggle",
-		"img": "images/items/rapidrecharging(sentry/energizer/havoc/shieldbattery).png",
+		"img": "images/items/rapidrecharging(sentry-energizer-havoc-shieldbattery).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "rapidrecharging(sentry/energizer/havoc/shieldbattery)"
@@ -6911,7 +6911,7 @@
 	{
 		"name": "Shadow Guard Training (Darktemplar/Avenger/Bloodhunter)",
 		"type": "toggle",
-		"img": "images/items/shadowguardtraining(darktemplar/avenger/bloodhunter).png",
+		"img": "images/items/shadowguardtraining(darktemplar-avenger-bloodhunter).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "shadowguardtraining(darktemplar/avenger/bloodhunter)"
@@ -18187,7 +18187,7 @@
 	{
 		"name": "shieldcapacity(zealot/sentinel/centurion)",
 		"type": "toggle",
-		"img": "images/items/shieldcapacity(zealot/sentinel/centurion).png",
+		"img": "images/items/shieldcapacity(zealot-sentinel-centurion).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "shieldcapacity(zealot/sentinel/centurion)"
@@ -18227,7 +18227,7 @@
 	{
 		"name": "singularitycharge(immortal/annihilator)",
 		"type": "toggle",
-		"img": "images/items/singularitycharge(immortal/annihilator).png",
+		"img": "images/items/singularitycharge(immortal-annihilator).png",
 		"initial_active_state": false,
 		"overlay_align": "right",
 		"codes": "singularitycharge(immortal/annihilator)"

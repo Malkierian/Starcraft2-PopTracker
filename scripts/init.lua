@@ -21,6 +21,7 @@ if PopVersion and PopVersion >= "0.23.0" then
 end
 
 -- Layout
+require("scripts/classes_import")
 require("scripts/layouts_import")
 
 -- Locations

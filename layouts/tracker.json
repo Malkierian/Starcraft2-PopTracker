@@ -41,7 +41,7 @@
                                             },
                                             {
                                                 "type": "group",
-                                                "header": "Units",
+                                                "header": "Barracks",
                                                 "dock": "top",
                                                 "content": {
                                                     "type": "layout",
@@ -50,7 +50,43 @@
                                             },
                                             {
                                                 "type": "group",
-                                                "header": "Units",
+                                                "header": "Factory",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran_factory"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Starport",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran_starport"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Buildings",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran_buildings"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Mercenaries",
+                                                "dock": "top",
+                                                "content": {
+                                                    "type": "layout",
+                                                    "key": "item_grid_terran_mercs"
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Miscellaneous",
                                                 "dock": "top",
                                                 "content": {
                                                     "type": "layout",
