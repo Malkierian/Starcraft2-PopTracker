@@ -1,5 +1,5 @@
 {
-    "itemgrid": {
+    "grid": {
         "type": "itemgrid",
         "item_margin": "0, 0",
         "h_alignment": "left",

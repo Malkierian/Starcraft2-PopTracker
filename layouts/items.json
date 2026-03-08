@@ -7,9 +7,7 @@
             {
                 "type": "itemgrid",
                 "item_margin": "2, 2",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                     ["additionalstartingminerals"], ["additionalstartingvespene"], ["additionalstartingsupply"], ["additionalmaximumsupply"],
                     ["decreasedmaximumsupply"], ["increasedbuildingconstructionspeed"], ["increasedshieldregeneration"], ["increasedupgraderesearchspeed"], ["reducedupgraderesearchcost"]
@@ -25,9 +23,7 @@
             {
                 "type": "itemgrid",
                 "item_margin": "2, 2",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                     [
                         "additionalstartingminerals", "additionalstartingvespene", "additionalstartingsupply", "additionalmaximumsupply",
@@ -44,80 +40,56 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["marine"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["medic"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["firebat"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["marauder"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["reaper"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["ghost"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["spectre"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["dominiontrooper"]
                 ]
@@ -131,100 +103,70 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["hellion"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["vulture"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["goliath"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["diamondback"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["siegetank"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["thor"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["predator"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["widowmine"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["cyclone"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["warhound"]
                 ]
@@ -238,100 +180,70 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["medivac"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["wraith"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["viking"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["banshee"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["liberator"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["valkyrie"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["raven"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sciencevessel"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["hercules"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["battlecruiser"]
                 ]
@@ -345,80 +257,56 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["bunker"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["missileturret"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sensortower"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["devastatorturret"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["planetaryfortress"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["perditionturret"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["hivemindemulator"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["psidisrupter"]
                 ]
@@ -432,30 +320,21 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["warpigs", "siegebreakers", "skibisangels", "brynhilds"], ["devildogs", "helsangels", "deathheads", "jotun"], ["hammersecurities", "duskwings", "wingednightmares"], ["spartancompany", "jacksonsrevenge", "midnightriders"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["rogueforces(terran)"], ["rapidreinforcement(terran)"], ["signalbeacon(terran)"], ["progressivefastdelivery(terran)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sonofkorhal", "fieldresponsetheta", "aegisguard", "emperorsshadow"], ["bulwarkcompany", "shockdivision", "blackhammer", "nighthawk"], ["nightwolf", "emperorsguardian", "skyfury", "prideofaugustgrad"]
                 ]
@@ -469,10 +348,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["progressiveterraninfantryweapon", "progressiveterraninfantryarmor", "progressiveterranvehicleweapon", "progressiveterranvehiclearmor", "progressiveterranshipweapon", "progressiveterranshiparmor"],
                         [],
@@ -481,20 +357,14 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["highexplosivemunition(spidermine)"], ["cerberusmine(spidermine)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["scannersweep(commandcenter)"], ["mule(commandcenter)"], ["extrasupplies(commandcenter)"], ["commandcenterreactor(commandcenter)"]
                 ]
@@ -520,9 +390,7 @@
             {
                 "type": "itemgrid",
                 "item_margin": "2, 2",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                     [
                         "kerriganlevels", "kineticblast(kerriganability)", "leapingstrike(kerriganability)", "crushinggrip(kerriganability)", "psionicshift(kerriganability)", "wildmutation(kerriganability)", "spawnbanelings(kerriganability)",
@@ -540,60 +408,42 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["zergling"], ["swarmlingstrain(zergling)", "raptorstrain(zergling)"], ["hardenedcarapace(zergling)", "shreddingclaws(zergling)"], ["metabolicboost(zergling)", "adrenaloverload(zergling)"], ["zerglingreconstitution(zerg)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["swarmqueen"], ["bio-mechanicaltransfusion(swarmqueen)", "resourceefficiency(swarmqueen)"], ["deeptunnel(swarmqueen)", "spawnlarvae(swarmqueen)"], ["incubatorchamber(swarmqueen)"], ["organiccarapace(swarmqueen)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["roach"], ["corpserstrain(roach)", "vilestrain(roach)"], ["adaptiveplating(roach)", "tunnelingclaws(roach)"], ["glialreconstitution(roach)", "organiccarapace(roach)"], ["hydriodicbile(roach)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["hydralisk"], ["ancillarycarapace(hydralisk)", "resourceefficiency(hydralisk)"], ["frenzy(hydralisk)"], ["groovedspines(hydralisk)"], ["muscularaugments(hydralisk)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["aberration"], ["banelingincubation(aberration)", "protectivecover(aberration)"], ["constructregeneration(aberration)", "resourceefficiency(aberration)"], ["monstrousresilience(aberration)"], ["progressivebanelinglaunch(aberration)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["swarmhost"], ["carrionstrain(swarmhost)", "creeperstrain(swarmhost)", "resourceefficiency(swarmhost)"], ["burrow(swarmhost)", "locustmetabolicboost(swarmhost)"],
                         ["organiccarapace(swarmhost)", "pressurizedglands(swarmhost)"], ["enduringlocusts(swarmhost)", "rapidincubation(swarmhost)"]
@@ -601,20 +451,14 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestor"], ["infestedterran(infestor)"], ["microbialshroud(infestor)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["ultralisk"], ["noxiousstrain(ultralisk)", "torrasquestrain(ultralisk)", "resourceefficiency(ultralisk)"], ["anabolicsynthesis(ultralisk)", "chitinousplating(ultralisk)"],
                         ["burrowcharge(ultralisk)", "organiccarapace(ultralisk)"], ["monarchblades(ultralisk)", "tissueassimilation(ultralisk)"]
@@ -622,20 +466,14 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["defiler"], ["comorbidity(defiler)"], ["pathogenprojectors(defiler)"], ["predatoryconsumption(defiler)"], ["trapdooradaptation(defiler)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["pygalisk"], ["combatcarapace(pygalisk)"], ["ducalblades(pygalisk)"], ["stimpack(pygalisk)"]
                 ]
@@ -649,40 +487,28 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["mutalisk"], ["aerodynamicglaiveshape(mutalisk)", "viciousglaive(mutalisk)"], ["rapidregeneration(mutalisk)"], ["severingglaive(mutalisk)"], ["sunderingglaive(mutalisk)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["corruptor"], ["causticspray(corruptor)", "resourceefficiency(corruptor)"], ["constructregeneration(corruptor)", "scourgeincubation(corruptor)"], ["corruption(corruptor)"], ["monstrousresilience(corruptor)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["scourge"], ["resourceefficiency(scourge)"], ["swarmscourge(scourge)"], ["virulentspores(scourge)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["broodqueen"], ["enhancedmitochondria(broodqueen)"], ["ensnare(broodqueen)"], ["fungalgrowth(broodqueen)"]
                 ]
@@ -696,10 +522,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["baneling"], ["hunterstrain(baneling)", "splitterstrain(baneling)"], ["centrifugalhooks(baneling)", "regenerativeacid(baneling)"],
                         ["corrosiveacid(baneling)", "rupture(baneling)"], ["rapidmetamorph(baneling)", "tunnelingjaws(baneling)"]
@@ -707,100 +530,70 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["impaler"], ["adaptivetalons(impaler)"], ["secretionglands(impaler)"], ["sunkenspines(impaler)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["lurker"], ["adaptedspines(lurker)"], ["seismicspines(lurker)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["broodlord"], ["behemothstellarskin(broodlord)"], ["porouscartilage(broodlord)"], ["resourceefficiency(broodlord)"], ["splittermitosis(broodlord)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["viper"], ["paralyticbarbs(viper)"], ["parasiticbomb(viper)"], ["virulentmicrobes(viper)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["guardian"], ["explosivespores(guardian)", "propellantsacs(guardian)"], ["primaladaptation(guardian)", "soronanacid(guardian)"], ["primordialfury(guardian)"], ["prolongeddispersion(guardian)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["devourer"], ["corrosivespray(devourer)"], ["gapingmaw(devourer)"], ["improvedosmosis(devourer)"], ["prescientspores(devourer)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["ravager"], ["bloatedbileducts(ravager)"], ["deeptunnel(ravager)"], ["potentbile(ravager)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["overseer"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["primaligniter"], ["concentratedfire(primaligniter)"], ["primaltenacity(primaligniter)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["tyrannozor"], ["barrageofspikes(tyrannozor)"], ["healingadaptation(tyrannozor)"], ["impalingstrike(tyrannozor)"], ["tyrantsprotection(tyrannozor)"]
                 ]
@@ -814,60 +607,42 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedmarine"], ["plaguedmunitions(infestedmarine)"], ["retinalaugmentation(infestedmarine)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infesteddiamondback"], ["causticmucus(infesteddiamondback)", "frightfulfleshwelder(infesteddiamondback)"], ["concentratedspew(infesteddiamondback)"], ["progressivefungalsnare(infesteddiamondback)"], ["violentenzymes(infesteddiamondback)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedsiegetank"], ["acidicenzymes(infestedsiegetank)", "seismicsonar(infestedsiegetank)"], ["balancedroots(infestedsiegetank)", "frightfulfleshwelder(infestedsiegetank)"], ["deeptunnel(infestedsiegetank)"], ["progressiveautomatedmitosis(infestedsiegetank)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedbanshee"], ["bracedexoskeleton(infestedbanshee)"], ["fleshfusedtargetingoptics(infestedbanshee)"], ["rapidhibernation(infestedbanshee)"], ["frightfulfleshwelder(infestedbanshee)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedliberator"], ["clouddispersal(infestedliberator)"], ["defendermode(infestedliberator)"], ["viralcontamination(infestedliberator)"], ["frightfulfleshwelder(infestedliberator)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["bullfrog"], ["suffusedwithvermin(bullfrog)"], ["lethalimpact(bullfrog)"], ["catalyticboosters(bullfrog)"], ["mutagenvents(bullfrog)"]
                 ]
@@ -881,80 +656,56 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["spinecrawler"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sporecrawler"], ["causticenzymes(sporecrawler)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["bilelauncher"], ["artilleryducts(bilelauncher)"], ["rapidbombardment(bilelauncher)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedbunker"], ["calcifiedarmor(infestedbunker)"], ["engorgedbunkers(infestedbunker)"], ["regenerativeplating(infestedbunker)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedmissileturret"], ["acidsporevents(infestedmissileturret)"], ["bioelectricpayload(infestedmissileturret)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["nydusworm"], ["ravenousappetite(nydusworm)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["nyduswormechidnaworm"], ["jormungandrstrain(nydusworm/echidnaworm)"], ["resourceefficiency(nydusworm/echidnaworm)"], ["subterraneanscales(nydusworm/echidnaworm)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["echidnaworm"], ["ouroborosstrain(echidnaworm)"]
                 ]
@@ -968,20 +719,14 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["infestedmedics", "hunterkillers", "caustichorrors"], ["infestedsiegebreakers", "wiseoldtorrasque"], ["infestedduskwings", "hunterling"], ["devouringones", "yggdrasil"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["self-sufficient(zerg)"], ["unrestrictedmutation(zerg)"], ["evolutionaryleap(zerg)"], ["celldivision(zerg)"]
                 ]
@@ -995,10 +740,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["progressivezergmeleeattack", "progressivezergmissileattack", "progressivezerggroundcarapace", "progressivezergflyerattack", "progressivezergflyercarapace"],
                         [],
@@ -1007,10 +749,7 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sustainedcultivationventricles(infestedscv)", "vespeneefficiency(zerg)", "macroscopicrecuperation(zerg)"], ["twindrones(zerg)", "excavatingclaws(zerg)", "bio-mechanicalstockpiling(zerg)"], 
                         ["automatedextractors(zerg)", "creepstomach(zerg)", "broodlingsporesaturation(zerg)"], ["malignantcreep(zerg)", "hiveclustermaturation(zerg)"]
@@ -1025,220 +764,154 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["zealot"], ["whirlwind(zealot)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["centurion"], ["resourceefficiency(centurion)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sentinel"], ["resourceefficiency(sentinel)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["zealotcenturionsentinel"], ["legenhancements(zealot/sentinel/centurion)"], ["shieldcapacity(zealot/sentinel/centurion)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["supplicant"], ["bloodshield(supplicant)", "zenithpitch(supplicant)"], ["endlessservitude(supplicant)"], ["sacrifice(supplicant)"], ["soulaugmentation(supplicant)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["stalker"], ["phasereactor(stalker)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["instigator"], ["blinkoverdrive(instigator)"], ["modernizedservos(instigator)"], ["reconstruction(instigator)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["slayer"], ["phaseblink(slayer)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["stalkerinstigatorslayer"], ["disintegratingparticles(stalker/instigator/slayer)"], ["particlereflection(stalker/instigator/slayer)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["sentry"], ["doubleshieldrecharge(sentry)"], ["forcefield(sentry)"], ["hallucination(sentry)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["energizer"], ["forgedchassis(energizer)"], ["mobilechronobeam(energizer)"], ["reclamation(energizer)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["havoc"], ["bloodshardresonance(havoc)"], ["detectweakness(havoc)"], ["enduringsight(havoc)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["dragoon"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["adept"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["hightemplar"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["signifier"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["ascendant"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["normalarchon"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["darkarchon"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["darktemplar"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["avenger"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["bloodhunter"]
                 ]
@@ -1252,100 +925,70 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["immortal"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["annihilator"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["vanguard"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["stalwart"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["colossus"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["wrathwalker"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["reaver"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["disruptor"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["observer"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["warpprism"]
                 ]
@@ -1359,190 +1002,133 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["phoenix"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["mirage"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["skirmisher"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["corsair"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["voidray"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["destroyer"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["pulsar"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["dawnbringer"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["scout"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["oppressor"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["caladrius"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["mistwing"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["carrier"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["trireme"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["skylord"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["tempest"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["arbiter"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["oracle"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["mothership"]
                 ]
@@ -1556,30 +1142,21 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["photoncannon"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["khaydarinmonolith"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["shieldbattery"]
                 ]
@@ -1593,20 +1170,14 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["progressiveprotossgroundweapon", "progressiveprotossgroundarmor", "progressiveprotossshields", "progressiveprotossairweapon", "progressiveprotossairarmor"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["chronosurge(spearofadun)", "temporalfield(spearofadun)", "deployfenix(spearofadun)"], ["progressiveproxypylon(spearofadun)", "solarlance(spearofadun)", "purifierbeam(spearofadun)"],
                         ["pylonovercharge(spearofadun)", "massrecall(spearofadun)", "timestop(spearofadun)"], ["orbitalstrike(spearofadun)", "shieldovercharge(spearofadun)", "solarbombardment(spearofadun)"]
@@ -1614,20 +1185,14 @@
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["guardianshell(spearofadun)"], ["reconstructionbeam(spearofadun)"], ["overwatch(spearofadun)"]
                 ]
             },
             {
                 "type": "itemgrid",
-                "item_margin": "0, 0",
-                "h_alignment": "left",
-                "item_height": 48,
-                "item_width": 48,
+                "class": "grid",
                 "rows": [
                         ["matrixoverload(protoss)", "warpharmonization(protoss)", "probewarp-in(protoss)"], ["quatro(protoss)", "superiorwarpgates(protoss)", "elderprobes(protoss)"],
                         ["orbitalassimilators(protoss)", "khalaiingenuity(protoss)"], ["amplifiedassimilators(protoss)", "progressivewarprelocate(protoss)"]
